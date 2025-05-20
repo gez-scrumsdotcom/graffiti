@@ -1,8 +1,7 @@
 #!/bin/bash
 
 git init
-git config user.name "Your Name"
-git config user.email "your_email@example.com"
+git config user.name "gez-scrumsdotcom"
 
 declare -a commits=(
   "2024-06-03|art pixel commit 1 on 2024-06-03"
