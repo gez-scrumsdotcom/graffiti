@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git init
-git config user.name "Your Name"
+git config user.name "gez-scrumsdotcom"
 git config user.email "your_email@example.com"
 
 declare -a commits=(
